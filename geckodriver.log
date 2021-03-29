@@ -1,0 +1,7 @@
+1620166027294	geckodriver	INFO	Listening on 127.0.0.1:53799
+1620166028354	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "start-maximized" "--disable-gpu" "--disable-extensions" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/var/folders/9p/m4xgv6sx09b7h0znr9mwqlxm0000gn/T/rust_mozprofileVuPqyc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620166039709	Marionette	INFO	Listening on port 53806
+1620166039768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620166062108	Marionette	INFO	Stopped listening on port 53806
